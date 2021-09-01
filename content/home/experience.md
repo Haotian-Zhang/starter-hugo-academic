@@ -22,28 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Research Intern, Deep Learning
+    company: Microsoft Research
+    company_url: 'https://www.microsoft.com/en-us/research/group/deep-learning-group/'
+    company_logo: org-ms
+    location: Redmond, USA
+    date_start: '2021-06-22'
+    date_end: '2021-09-17'
     description: |2-
-        Responsibilities include:
+        My research project is to investigate pre-training models with additional visual modalities by involving image embeddings in the pre-training steps, supervised by Pengchuan Zhang, Jianwei Yang, Chunyuan Li, Jianfeng Gao.
         
         * Analysing
-        * Modelling
-        * Deploying
+
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern, Computer Vision
+    company: Microsoft AI & Cloud
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-ms
+    location: Redmond, USA
+    date_start: '2020-06-21'
+    date_end: '2020-09-13'
+    description: |2-
+        My research project is to investigate pre-training models with additional visual modalities by involving image embeddings in the pre-training steps, supervised by Dinei Florencio, Yijuan Lu, Guoxin Wang.
+        
+        * Adopted a simple yet powerful Transformer model as the backbone and extends it to take both visual and text embedded features.
+        * Designed the Masked Language Model (MLM) and Image-Text Matching (ITM) to jointly model interactions between language, layout and rich visual information.
+        * Visual-LayoutLM model has shown its potential to outperform the original LayoutLM and other SOTA models in several document understanding tasks. 
 
 design:
   columns: '2'

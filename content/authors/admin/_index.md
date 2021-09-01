@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'haotian.carl.zhang@gmail.com'
+  link: 'mailto:haotian.carl.zhang@gmail.com'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=1vz0kKUAAAAJ&hl=en
@@ -72,4 +72,4 @@ Haotian (Carl) Zhang is now a Ph.D candidate of Department of Electrical and Com
 
 Haotian believes that living an interesting life is done by doing interesting things, and that’s what he hopes to do.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
