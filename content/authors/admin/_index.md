@@ -68,7 +68,7 @@ highlight_name: false
 ---
 “Be Boundless.”
 
-Haotian (Carl) Zhang is now a Ph.D candidate of Department of Electrical and Computer Engineering at the University of Washington. His research interests basically include Computer Vision and Deep Learning. He’s now a member of Infomation Processing Lab, supervised by Prof. Jenq-Neng Hwang. He received his BS.c degree in Electrical Engineering at Shanghai Jiao Tong University in 2017, supervised by Prof. Jun-Fa Mao.
+Haotian (Carl) Zhang is now a 4th-year Ph.D candidate of Department of Electrical and Computer Engineering at the University of Washington. His research interests basically include Computer Vision and Deep Learning. He’s now a member of Infomation Processing Lab [IPL](https://ipl-uw.github.io/), supervised by Prof. [Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/). Before that, he received his BS.c degree in Electrical Engineering at Shanghai Jiao Tong University in 2017, supervised by Prof. Jun-Fa Mao.
 
 Haotian believes that living an interesting life is done by doing interesting things, and that’s what he hopes to do.
 
