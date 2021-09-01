@@ -30,7 +30,7 @@ experience:
     date_start: '2021-06-22'
     date_end: '2021-09-17'
     description: |2-
-        My research project is to investigate pre-training models with additional visual modalities by involving image embeddings in the pre-training steps, supervised by Pengchuan Zhang, Jianwei Yang, Chunyuan Li, Jianfeng Gao.
+        My research project is to investigate pre-training models with additional visual modalities by involving image embeddings in the pre-training steps, supervised by Pengchuan Zhang, Jianwei Yang, Chunyuan Li, Xiyang Dai, Xena Zhu, Cheng Wu, Yuan Lu, and Jianfeng Gao.
 
         
   - title: Research Intern, Computer Vision
@@ -41,7 +41,7 @@ experience:
     date_start: '2020-06-21'
     date_end: '2020-09-13'
     description: |2-
-        My research project is to investigate pre-training models with additional visual modalities by involving image embeddings in the pre-training steps, supervised by Dinei Florencio, Yijuan Lu, Guoxin Wang.
+        My research project is to investigate pre-training models with additional visual modalities by involving image embeddings in the pre-training steps, supervised by Guoxin Wang, Yijuan Lu and Dinei Florencio.
         
         * Adopted a simple yet powerful Transformer model as the backbone and extends it to take both visual and text embedded features.
         * Designed the Masked Language Model (MLM) and Image-Text Matching (ITM) to jointly model interactions between language, layout and rich visual information.
