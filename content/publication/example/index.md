@@ -12,11 +12,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,13 +25,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *ICCV2021 Conference*
+publication_short: In *ICCV*
 
 abstract: Sensing and perception systems for autonomous driving vehicles in road scenes are composed of three crucial components:3D-based object detection, tracking, and localization. While all three components are important, most relevant papers tend to only focus on one single component. We propose a monocular vision-based framework for 3D-based detection, tracking, and localization by effectively integrating all three tasks in a complementary manner. Our system contains an RCNN-based Localization Network (LOCNet), which works in concert with fitness evaluation score (FES) based single-frame optimization, to get more accurate and refined 3D vehicle localization. To better utilize the temporal information, we further use a multi-frame optimization technique, taking advantage of camera ego-motion and a 3D TrackletNet Tracker (3D TNT), to improve both accuracy and consistency in our 3D localization results. Our system outperforms state-of-the-art image-based solutions in diverse scenarios and is even comparable with LiDAR-based methods.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: While all three components are important, most relevant papers tend to only focus on one single component. We propose a monocular vision-based framework for 3D-based detection, tracking, and localization by effectively integrating all three tasks in a complementary manner. Our system outperforms state-of-the-art image-based solutions in diverse scenarios and is even comparable with LiDAR-based methods.
 
 tags: []
 
@@ -79,8 +79,8 @@ slides: example
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
