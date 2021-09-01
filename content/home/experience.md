@@ -30,7 +30,7 @@ experience:
     date_start: '2021-06-22'
     date_end: '2021-09-17'
     description: |2-
-        My research project is to investigate pre-training models with additional visual modalities by involving image embeddings in the pre-training steps, supervised by Pengchuan Zhang, Jianwei Yang, Chunyuan Li, Xiyang Dai, Xena Zhu, Cheng Wu, Yuan Lu, and Jianfeng Gao.
+        supervised by Pengchuan Zhang, Jianwei Yang, Chunyuan Li, Xiyang Dai, Xena Zhu, Cheng Wu, Yuan Lu, and Jianfeng Gao.
 
         
   - title: Research Intern, Computer Vision
